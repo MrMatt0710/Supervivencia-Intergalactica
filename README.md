@@ -1,5 +1,5 @@
 # Supervivencia-Intergalactica
- En el siguiente repositorio se encuentran todos los archivos necesarios para poder ejecutar el codigo de nuestro videojuego #Supervivencia Intergalactica, dicho videojuego fue realizado con algunas de las cosas aprendidas en clase de programación de computadores y tambien con fragmentos de diferentes videos para poder tener una guia y lograr nuestro objetivo.
+ En el siguiente repositorio se encuentran todos los archivos necesarios para poder ejecutar el codigo de nuestro videojuego **Supervivencia Intergalactica**, dicho videojuego fue realizado con algunas de las cosas aprendidas en clase de programación de computadores y tambien con fragmentos de diferentes videos para poder tener una guia y lograr nuestro objetivo.
  
 ## El Proyecto es realizado por los estudiantes:
  - Juan Esteban Matallana Sánchez
